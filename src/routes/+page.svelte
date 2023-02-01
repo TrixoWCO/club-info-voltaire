@@ -44,6 +44,12 @@
 						<span>ZeMadCoder</span>
 					</div>
 				</li>
+								<li>
+					<div class="flex items-center justify-center">
+						<Avatar class="mr-4" src={TrixoWCO} />
+						<span>OnePiece</span>
+					</div>
+				</li>
 			</ul>
 		</div>
 	</div>

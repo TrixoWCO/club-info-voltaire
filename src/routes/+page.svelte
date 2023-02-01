@@ -17,7 +17,7 @@
 
 <div class="container h-full mx-auto flex justify-center items-center">
 	<div class="space-y-10 text-center">
-		<h2 class="font-bold">Bienvenue au club info du lycée Voltaire.</h2>
+		<h2 class="title = font-bold">Bienvenue au club info du lycée Voltaire.</h2>
 		<!-- Animated Logo -->
 		<figure>
 			<section class="img-bg" />
@@ -50,6 +50,7 @@
 </div>
 
 <style lang="postcss">
+
 	figure {
 		@apply flex relative flex-col;
 	}

@@ -3,6 +3,7 @@
 	import { Avatar } from '@skeletonlabs/skeleton'
 	import ZeMadCoder from '$lib/images/ZeMadCoder.jpg'
 	import { toastStore } from '@skeletonlabs/skeleton'
+	import  Monimage  from '$lib/images/Onepiece.jpg'
 
 	function triggerToast() {
 		const t = {
@@ -46,8 +47,8 @@
 				</li>
 								<li>
 					<div class="flex items-center justify-center">
-						<Avatar class="mr-4" src={TrixoWCO} />
-						<span>OnePiece</span>
+						<Avatar class="mr-4" src={Monimage} />
+						<span>TrixoWCO</span>
 					</div>
 				</li>
 			</ul>
